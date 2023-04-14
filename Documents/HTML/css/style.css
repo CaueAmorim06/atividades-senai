@@ -1,0 +1,19 @@
+@import "nav.css";
+@import "gatao.css";
+@import "secaoImagens.css";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 600px; 
+    margin: auto;    
+}
+body{
+    display: flex;
+    flex-direction: column;
+}

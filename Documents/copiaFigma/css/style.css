@@ -1,0 +1,42 @@
+@import "header.css";
+@import "main.css";
+
+.bloquinhos{
+    display: flex;
+    flex-direction: row;
+    align-items: center;    
+    gap: 64px;
+    width: 1440px;
+    height: 288px;
+    justify-content: space-around;
+    
+}
+
+h3{
+    color: #8E2424;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    
+}
+
+.bloco1{
+    width: 280px;
+    height: 168px;
+}
+
+.bloco2{
+    width: 280px;
+    height: 168px;
+}
+
+.bloco3{
+    width: 280px;
+    height: 168px;
+}
+
+.bloco4{
+    width: 280px;
+    height: 168px;
+}

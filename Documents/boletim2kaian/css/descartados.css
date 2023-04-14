@@ -1,0 +1,28 @@
+.descartados {
+    width: 550px;
+    height: 80px;    
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(20, 36, 0) 0%, rgb(82, 121, 9) 34%, rgb(255, 230, 0) 100%);
+    border-radius: 0px 50px 50px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Poppins;
+}
+
+.descartados__titulo{
+    margin-left: 8px;
+    color: white;
+}
+.descartados__numero{
+    color: blue;
+    font-size: 20px;
+    width: 70px;
+    height: 70px;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 8px;
+}

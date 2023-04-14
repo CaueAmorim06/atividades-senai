@@ -1,0 +1,28 @@
+.confirmados {
+    width: 700px;
+    height: 80px;
+    background: rgb(54,0,0);
+    background: linear-gradient(90deg, rgba(54,0,0,1) 0%, rgba(121,9,9,1) 34%, rgba(255,0,0,1) 100%);    
+    border-radius: 0px 50px 50px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Poppins;
+}
+
+.confirmados__titulo{
+    margin-left: 8px;
+    color: white;
+}
+.confirmados__numero{
+    color: red;
+    font-size: 20px;
+    width: 70px;
+    height: 70px;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 8px;
+}

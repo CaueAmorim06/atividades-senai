@@ -1,0 +1,37 @@
+.quadrado1, .numero{
+    background-color: rgb(249, 250, 179); 
+    border-radius: 16px;      
+    padding: 24px;
+    outline-style: solid;
+    outline-width: thin;                   
+}
+.quadrado2, .numero2{
+    background-color: rgb(255, 181, 255);
+    padding: 24px;
+    border-radius: 16px;
+    outline-style: solid;
+    outline-width: thin;
+}
+.quadrado3, .numero3{
+    background-color: rgb(145, 104, 145);
+    border-radius: 16px;
+    padding: 24px;
+    outline-style: solid;
+    outline-width: thin;
+}
+
+.quadrado4, .numero4{
+    background-color: rgb(53, 43, 112);
+    border-radius: 16px;
+    padding: 24px;
+    outline-style: solid;
+    outline-width: thin;
+}
+
+.quadrado5, .numero5{
+    background-color: rgb(36, 29, 75);
+    border-radius: 16px;
+    padding: 24px;
+    outline-style: solid;
+    outline-width: thin;
+}

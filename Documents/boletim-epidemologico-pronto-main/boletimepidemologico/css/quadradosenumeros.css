@@ -1,0 +1,33 @@
+
+.quadrados{
+   display: flex;
+   flex-direction: column;    
+   gap: 16px;
+   padding: 40px;
+   margin-left: 480px;  
+   
+}
+
+
+
+.numeros{
+   display: flex;
+   flex-direction: column;   
+   gap: 16px;
+   margin-top: 40px;   
+}
+
+.numero2{
+   background-color: aquamarine;
+
+   
+   padding: 24px;
+   margin-top: 24px;
+}
+
+
+
+
+
+
+

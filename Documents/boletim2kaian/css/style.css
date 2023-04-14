@@ -1,0 +1,11 @@
+@import "confirmados.css";
+@import "recuperados.css";
+@import "dadosGerais.css";
+@import "suspeitos.css";
+@import "descartados.css";
+@import "curados.css";
+@import "dadosDetalhados.css";
+
+main{
+    display: flex;
+}

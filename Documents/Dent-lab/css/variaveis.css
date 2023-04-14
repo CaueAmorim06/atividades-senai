@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Inter&family=Poppins:wght@500&display=swap');
+:root {
+    --texto-logo-cor: blue;
+    --texto-logo: 'Poppins';
+    --texto: 'Inter';
+    --cor-botao: #3498db;
+    --cor-branco: white;
+    --cor-laranja: #ff9021;
+    --cor-roxo: #9156e7;
+    --cor-laranja-claro: #e8af35;
+}

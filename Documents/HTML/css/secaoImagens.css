@@ -1,0 +1,14 @@
+.secaoImagens{
+    display: flex;
+    flex-direction: row;
+    margin-top: 48px;
+    justify-content: center;
+    gap: 48px;
+    background-color: rgb(235, 238, 199);    
+}
+.secaoImagens_img {
+    height: 300px;
+    width: auto;
+    outline-style: solid;
+    outline-width: thin;    
+}

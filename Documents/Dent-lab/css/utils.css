@@ -1,0 +1,45 @@
+.titulo__principal{
+    font-family: var(--texto);
+    font-weight: 900;
+    font-size: 48px;
+}
+
+.sub_titulo{
+    font-family: var(--texto);
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.texto{
+    font-family: var(--texto);
+    font-weight: 400;
+    font-size: 18px;  
+
+}
+.card{
+    width: 300px;
+    height: 200px;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    gap: 8px;
+    outline-style: solid;
+    outline-width: thin;
+    background-color: white;
+    outline-color: black;
+    box-shadow:
+         3px 3px 2.2px rgba(0, 0, 0, 0.02),
+         6.6px 6.6px 5.3px rgba(0, 0, 0, 0.028),
+        11.2px 11.2px 10px rgba(0, 0, 0, 0.035),
+        18.1px 18.1px 17.9px rgba(0, 0, 0, 0.042),
+         31.9px 31.9px 33.4px rgba(0, 0, 0, 0.05),
+        100px 100px 80px rgba(0, 0, 0, 0.07);
+}
+
+.center{
+    text-align: center;
+}
+

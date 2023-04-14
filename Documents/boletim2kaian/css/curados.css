@@ -1,0 +1,28 @@
+.curados {
+    width: 500px;
+    height: 80px;
+    background: rgb(39, 0, 54);
+    background: linear-gradient(90deg, rgb(30, 0, 54) 0%, rgb(89, 9, 121) 34%, rgb(183, 0, 255) 100%);    
+    border-radius: 0px 50px 50px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Poppins;
+}
+
+.curados__titulo{
+    margin-left: 8px;
+    color: white;
+}
+.curados__numero{
+    color: rgb(174, 0, 255);
+    font-size: 20px;
+    width: 70px;
+    height: 70px;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 8px;
+}

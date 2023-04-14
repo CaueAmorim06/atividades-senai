@@ -1,0 +1,29 @@
+@import "nav-h.css";
+@import "main.css";
+@import "quadradosenumeros.css";
+@import "quadradosenumerosdiferentes.css";
+
+body{
+    background-image: url(https://altodorodrigues.rn.gov.br/images/pexels-cdc-3993212.jpg);
+}
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+main{
+     
+    display: flex;
+    margin: auto;
+    width: 1800px;
+    height: 640px;    
+    margin-left: 40px;
+    margin-right: 80px; 
+   
+    
+        
+
+}
+
+

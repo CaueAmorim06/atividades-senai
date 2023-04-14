@@ -1,0 +1,28 @@
+.suspeitos {
+    width: 600px;
+    height: 80px;    
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgb(36, 0, 30) 0%, rgb(121, 9, 116) 34%, rgb(234, 0, 255) 100%);
+    border-radius: 0px 50px 50px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Poppins;
+}
+
+.suspeitos__titulo{
+    margin-left: 8px;
+    color: white;
+}
+.suspeitos__numero{
+    color: blue;
+    font-size: 20px;
+    width: 70px;
+    height: 70px;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 8px;
+}
