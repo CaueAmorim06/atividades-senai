@@ -1,0 +1,28 @@
+main{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+section{
+    width: 600px;
+    height: 600px;
+    background-color: black;
+}
+
+
+
+@media (max-width: 720px){
+    main{
+        display: flex;
+        flex-direction: column;
+    }
+    section{
+        display: none;
+    }
+    div{
+        width: 200px;
+        height: 200px;
+        background-color: green;
+    }
+}
