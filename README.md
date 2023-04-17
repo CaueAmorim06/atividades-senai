@@ -1,2 +1,2 @@
 # atividades senai
-atividades de classe do senai, sites, challenges de java e certificado scrum master
+atividades de classe do senai, sites, challenges de java que consegui fazer, e certificado scrum master 
